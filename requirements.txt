@@ -22,4 +22,4 @@ pyscreenshot==0.4.2
 requests==2.18.4
 SQLAlchemy==1.1.15
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
